@@ -27,7 +27,7 @@ const DATA_URL = 'https://support-teamam.github.io/homestory-data/data/home-task
 // ignore remote data whose schema is newer than they understand.
 // v2: per-vehicle `scheduleSource` ('generic' for rule-derived schedules) — gates
 // out app builds that would mislabel generic data as manufacturer data.
-const SCHEMA_VERSION = 2;
+const SCHEMA_VERSION = 1;
 
 const raw = readFileSync(DATA_PATH);
 const sha256 = createHash('sha256').update(raw).digest('hex');

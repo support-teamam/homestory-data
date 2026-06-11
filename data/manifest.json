@@ -1,8 +1,8 @@
 {
-  "schema": 2,
-  "version": 1,
+  "schema": 1,
+  "version": 2,
   "url": "https://support-teamam.github.io/homestory-data/data/home-tasks.json",
   "sha256": "4d4458c3508b98d17a7706dc2c58c66872fb5d98d67b3be5d285da1bc20bac9a",
   "taskCount": 66,
-  "generatedAt": "2026-06-11T01:23:31.485Z"
+  "generatedAt": "2026-06-11T01:23:56.562Z"
 }
